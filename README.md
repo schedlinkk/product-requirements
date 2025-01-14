@@ -57,11 +57,10 @@
 - Design should emphasize usability and minimalism.
 
 #### 9. **Technical Specifications**
-- **Frontend**: React Native for cross-platform support.
-- **Backend**: Node.js with Express.
+- **Frontend**: React for single page web frontend.
+- **Backend**: Go.
 - **Database**: MongoDB for storing user data and schedules.
-- **Authentication**: OAuth 2.0 for secure login.
-- **Notifications**: Firebase Cloud Messaging.
+- **Authentication**: OAuth 2.0 and native auth for secure login.
 
 
 #### 10. **Timeline and Milestones**
